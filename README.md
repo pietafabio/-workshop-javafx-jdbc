@@ -1,1 +1,1 @@
-# -workshop-javafx-jdbc
+# workshop-javafx-jdbc
